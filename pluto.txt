@@ -1,4 +1,4 @@
 This is text file
 Adding text to the file because Pluto was rejected as a planet a few years ago.
 another line to conflict
-
+This is third line
